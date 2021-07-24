@@ -1,6 +1,4 @@
-/* global daum */
-
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 
 const FoodPage2 = () => {
   const kakao = window.daum;

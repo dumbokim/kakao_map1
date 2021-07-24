@@ -1,5 +1,5 @@
 
-import { useState, useEffect } from 'react';
+import React from 'react';
 import './App.css';
 import FoodPage from './Components/FoodPage'
 import FoodPage2 from './Components/FoodPage2'
