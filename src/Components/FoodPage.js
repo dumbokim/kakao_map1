@@ -2,6 +2,8 @@
 import React, { useState, useEffect } from 'react';
 
 const FoodPage = () => {
+  const kakao = window.daum;
+  
   useEffect(() => {
 
     const script = document.createElement('script');
